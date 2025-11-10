@@ -1,1 +1,1 @@
-USACO Bronze February 2024 Contest Solutions
+USACO Silver Promotion February 2024 Contest Solutions
